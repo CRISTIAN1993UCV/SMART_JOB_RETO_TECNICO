@@ -10,3 +10,6 @@ spring:
   h2:
     console:
       enabled: true
+custom:
+  passwordRegex: "^(?=.*[a-zA-Z])(?=.*\\d).+$"
+  emailRegex: "^[a-zA-Z]+@[a-zA-Z]+\\.[a-zA-Z]{2,}$"
