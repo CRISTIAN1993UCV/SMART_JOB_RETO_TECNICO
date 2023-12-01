@@ -41,5 +41,4 @@ public class Usuario {
 
     private boolean isActive;
 
-    // Constructores, Getters y Setters
 }
