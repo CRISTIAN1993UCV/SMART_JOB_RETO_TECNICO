@@ -1,3 +1,4 @@
+
 # README - Registro de Usuarios API
 ## Descripción
 Este documento proporciona información sobre cómo utilizar el punto final de registro de usuarios de la API, ubicado en http://localhost:8080/api/users/register. 
@@ -48,4 +49,6 @@ Esto asegura que el correo electrónico siga el formato estándar nombredeusuari
 ## Configuración Personalizada
 Si desea ajustar las expresiones regulares, puede modificar los valores en el archivo application.yaml bajo la sección custom.
 Asegúrese de reiniciar la aplicación después de realizar cambios para que tengan efecto.
+## Diagrama
+![DIAGRAMA_SMARTJOB](https://github.com/CRISTIAN1993UCV/SMART_JOB_RETO_TECNICO/assets/145594124/81e17ee7-8dd5-49d3-9655-18f9264f1801)
 
