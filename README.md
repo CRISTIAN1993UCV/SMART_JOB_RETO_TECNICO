@@ -3,7 +3,8 @@
 ## Descripción
 Este documento proporciona información sobre cómo utilizar el punto final de registro de usuarios de la API, ubicado en http://localhost:8080/api/users/register. 
 También se proporciona un ejemplo de solicitud para realizar pruebas.
-
+## Cómo Iniciar la Aplicación
+mvn spring-boot:run
 ## Punto Final de la API
   URL: http://localhost:8080/api/users/register
   Método: POST
